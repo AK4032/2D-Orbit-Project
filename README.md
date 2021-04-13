@@ -1,2 +1,2 @@
-# 3D-Orbit-Project
-Collection of files for 3D Orbit Project.
+# 2D-Orbit-Project
+Collection of files for 2D Orbit Project.
